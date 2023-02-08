@@ -1,11 +1,5 @@
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet">
-<h1 align="center" style="font-family: 'Cairo', sans-serif;">Apollo</h1>
-
 # 💫 About Me:
-Zakariae Mrabet Data Scientist and student at 1337 | um6p
+Zakariae Mrabet [Aka : Apollo] Data Scientist and student at 1337 | um6p
 
 
 ## 🌐 Socials:
