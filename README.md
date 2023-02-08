@@ -1,5 +1,6 @@
 # 💫 About Me:
-Zakariae Mrabet [Aka : Apollo] Data Scientist and student at 1337 | um6p
+Zakariae Mrabet [Aka : Apollo] Data Scientist
+I earned a Technician Specialized Diploma in it Development, and then a Bachelor’s degree in Data Science, now I'm a student at 1337 !
 
 
 ## 🌐 Socials:
