@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakarm&label=Profile%20views&color=0e75b6&style=flat" alt="zakarm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrabet_zakariae" target="blank"><img src="https://img.shields.io/twitter/follow/mrabet_zakariae?logo=twitter&style=for-the-badge" alt="mrabet_zakariae" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrabet_zakariae" target="blank"><img src="https://visitcount.itsvg.in/api?id=zakarm&icon=0&color=0)" alt="mrabet_zakariae" /></a> </p>
 
 - 🔭 I’m currently working on **cpp 42 network modules**
 
