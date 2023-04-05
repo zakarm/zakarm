@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakariae Mrabet</h1>
-<h3 align="center">A passionate Data Scientist from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakarm&label=Profile%20views&color=0e75b6&style=flat" alt="zakarm" /> </p>
+<h3 align="center">A passionate data scientist from Morocco</h3>
 
 - 🔭 I’m currently working on **Cpp modules [42 network]**
 
