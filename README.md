@@ -4,9 +4,9 @@
 <h3 align="center">A passionate data scientist from Morocco</h3>
 <br/>
 
-- 🔭 I’m currently working on **Image Classification Using CIFAR-10 Dataset**
+- 🔭 I’m currently working on **Inception 42**
 
-- 🌱 I’m currently learning **neural networks (Multilayer Perceptrons)**
+- 🌱 I’m currently learning **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
