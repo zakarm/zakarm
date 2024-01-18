@@ -3,7 +3,6 @@
 </div>
 
 
----
 - 👋 Hi, I'm **Zakariae Mrabet**
 
 - 🚀 Data Science **Enthusiast**
