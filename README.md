@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Zakariae Mrabet</h1>
+<div align="center">
+  <img src="https://github.com/zakarm/zakarm/blob/main/apollo.png" alt="Apollo Image" width="300">
+</div>
 
+<h2 align="center">Zakariae Mrabet</h2>
+<p align="center">Data Science Enthusiast</p>
 
-<h3 align="center">A passionate data scientist from Morocco</h3>
 <br/>
 
 - 🔭 I’m currently working on **Inception 42**
