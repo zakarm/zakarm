@@ -7,9 +7,9 @@
 
 - 🚀 Data Science **Enthusiast**
 
-- 💻 Currently working on **Inception 42**
+- 💻 Currently working on **ft_transcendence**
 
-- 🌱 Learning **Docker**
+- 🌱 Learning **----**
 
 ---
 
