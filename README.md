@@ -39,4 +39,7 @@
   <a href="https://www.instagram.com/zaka_rm/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <a href="https://www.linkedin.com/in/zakariae-mrabet-23aa061b6/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
