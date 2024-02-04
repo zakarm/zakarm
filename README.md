@@ -5,11 +5,11 @@
 
 - 👋 Hi, I'm **Zakariae Mrabet**
 
-- 🚀 Data Science **Enthusiast**
+- 🚀 Python-based Data Engineer
 
-- 💻 Currently working on **ft_transcendence**
+- 💻 Currently working on aliexpress-web-scrapper
 
-- 🌱 Learning **----**
+- 🌱 Learning **Python3.12**
 
 ---
 
