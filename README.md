@@ -7,7 +7,7 @@
 
 - 🚀 Python-based Data Engineer
 
-- 💻 Currently working on BlurFaceAI
+- 💻 Currently working on **BlurFaceAI**
 
 - 🌱 Learning **Data Science**
 
