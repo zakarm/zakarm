@@ -7,9 +7,9 @@
 
 - 🚀 Python-based Data Engineer
 
-- 💻 Currently working on aliexpress-web-scrapper
+- 💻 Currently working on BlurFaceAI
 
-- 🌱 Learning **Python3.12**
+- 🌱 Learning **Data Science**
 
 ---
 
