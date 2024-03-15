@@ -16,12 +16,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,jquery,bash,bootstrap,django,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,jquery,bash,bootstrap,django" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,vim,github,selenium,linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,vim,github,linux" />
   </a>
 </p>
 <p align="center">
