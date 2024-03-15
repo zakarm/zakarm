@@ -16,17 +16,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,jquery,django,tensorflow,pytorch,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,jquery,bash,bootstrap,django,tensorflow,pytorch" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=mongodb,git,docker,vim,github,selenium" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,vim,github,selenium,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm" />
   </a>
 </p>
 
