@@ -5,9 +5,9 @@
 
 - 👋 Hi, I'm **Zakariae Mrabet**
 
-- 🚀 Python-based Data Engineer
+- 🚀 Python Enthusiast
 
-- 💻 Currently working on **BlurFaceAI**
+- 💻 Currently working on **ft_transcendence**
 
 - 🌱 Learning **Data Science**
 
