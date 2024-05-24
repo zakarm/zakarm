@@ -5,11 +5,9 @@
 
 - 👋 Hi, I'm **Zakariae Mrabet**
 
-- 🚀 Python Enthusiast
+- 🚀 Ai and DataSience Enthusiast
 
 - 💻 Currently working on **ft_transcendence**
-
-- 🌱 Learning **Data Science**
 
 ---
 
