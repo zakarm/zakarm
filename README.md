@@ -41,3 +41,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+---
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Github%20rank%20in%20morocco-48-red">
+</p>
