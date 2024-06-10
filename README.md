@@ -5,7 +5,7 @@
 
 - 👋 Hi, I'm **Zakariae Mrabet**
 
-- 🚀 Ai and DataSience Enthusiast
+- 🚀 AI Engineer
 
 - 💻 Currently working on **ft_transcendence**
 
