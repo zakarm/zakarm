@@ -2,14 +2,15 @@
   <img src="https://github.com/zakarm/zakarm/blob/main/apollo.png" alt="Apollo Image" width="300">
 </div>
 
-
-- 👋 Hi, I'm **Zakariae Mrabet**
-
-- 🚀 AI Engineer
-
-- 💻 Currently working on **ft_transcendence**
-
----
+```python3
+class ZakariaeMrabet():
+  def __init__(self):
+    self.first_name = "Zakariae"
+    self.last_name = "Mrabet"
+    self.location = "Morocco"
+    self.title = ["Ai Engineer", "Researcher", "Python Developer"]
+    self.web_site = "https://zakarm.github.io/"
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
