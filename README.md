@@ -8,7 +8,7 @@ class ZakariaeMrabet():
     self.first_name = "Zakariae"
     self.last_name = "Mrabet"
     self.location = "Morocco"
-    self.title = ["Ai Engineer", "Researcher", "Python Developer"]
+    self.title = ["Ai Engineer at 1337"]
     self.web_site = "https://zakarm.github.io/"
 ```
 
