@@ -15,17 +15,17 @@ class ZakariaeMrabet():
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,javascript,jquery,bash,bootstrap,django" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,sklearn,tensorflow,pytorch" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,vim,github,linux" />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,docker,github,anaconda" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,vim" />
   </a>
 </p>
 
