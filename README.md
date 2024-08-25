@@ -45,5 +45,8 @@ class ZakariaeMrabet():
 
 ---
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Github%20rank%20in%20morocco-48-red">
+  
+[![committers.top badge](https://user-badge.committers.top/morocco/zakarm.svg)](https://user-badge.committers.top/morocco/zakarm)
+
+  
 </p>
