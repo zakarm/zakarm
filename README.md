@@ -16,17 +16,17 @@ class Apollo():
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,sklearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,sklearn,tensorflow,pytorch,opencv" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,docker,github,anaconda" />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,docker,github,anaconda,postman" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/zaka_rm/">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,vim" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,vim,ubuntu" />
   </a>
 </p>
 
