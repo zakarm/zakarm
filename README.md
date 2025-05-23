@@ -8,9 +8,10 @@ class Apollo():
     self.full_name = "Zakariae Mrabet"
     self.title = "Ai Engineer"
     self.affiliation = "1337"
-    self.description = "Innovative AI Engineer at 1337 R&D for OCP,\
-                        pioneering the integration of advanced AI\
-                        technologies in industrial processes."
+    self.description = "Innovative AI Engineer \
+                        pioneering the integration \
+                        of advanced AI technologies \
+                        in industrial processes."
 ```
 
 <h3 align="left">Languages and Tools:</h3>
