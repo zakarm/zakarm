@@ -6,8 +6,8 @@
 class Apollo():
   def __init__(self):
     self.full_name = "Zakariae Mrabet"
-    self.title = "Ai Engineer"
-    self.affiliation = "1337"
+    self.title = "Ai & Data Engineer"
+    self.affiliation = "Groupe Valeor"
     self.description = "Innovative AI Engineer \
                         pioneering the integration \
                         of advanced AI technologies \
