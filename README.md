@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zakarm/zakarm/blob/main/apollo.png" alt="Apollo Image" width="300">
+  <img src="https://github.com/zakarm/zakarm/blob/main/apollologo.png" alt="Apollo Image" width="900">
 </div>
 
 ```python3
